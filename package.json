@@ -1,0 +1,22 @@
+{
+  "name": "richard-webpack--config",
+  "version": "1.0.0",
+  "description": "> [参考文章](https://juejin.im/post/5cfe4b13f265da1bb13f26a8#heading-4)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SilenceRichard/richard-webpack--config.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SilenceRichard/richard-webpack--config/issues"
+  },
+  "homepage": "https://github.com/SilenceRichard/richard-webpack--config#readme",
+  "dependencies": {
+    "commitizen": "^4.0.3"
+  }
+}

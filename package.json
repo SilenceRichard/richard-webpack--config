@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/SilenceRichard/richard-webpack--config#readme",
   "dependencies": {
-    "commitizen": "^4.0.3"
+    "@babel/runtime-corejs2": "^7.8.4",
+    "commitizen": "^4.0.3",
+    "core-js": "2"
   }
 }

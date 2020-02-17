@@ -1,3 +1,5 @@
 /node_modules/*
 react-webpack/node_modules/*
+webpack-demo/node_modules/*
 react-webpack/dist/*
+node_modules
